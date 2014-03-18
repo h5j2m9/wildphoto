@@ -2,4 +2,4 @@
 Read data file
 Run Analysis
 Make Table
-Make Small Figure
+Make Small Figure, Red line
