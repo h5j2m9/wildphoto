@@ -2,3 +2,4 @@
 Read data file
 Run Analysis
 Make Table
+Make Small Figure
